@@ -1,10 +1,10 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                       ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)          ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS              ▀▄ ▄▀   
-▀▄ ▄▀        sticker  :  تحويل ملصق        ▀▄ ▄▀ 
+▀▄ ▄▀    BY        @samir_98               ▀▄ ▄▀ 
+▀▄ ▄▀     BY          @samir_98 ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY   @samir_98            ▀▄ ▄▀   
+▀▄ ▄▀        sticker :  تحويل ملصق        ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
 local function tosticker(msg, success, result)

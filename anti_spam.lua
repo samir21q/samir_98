@@ -1,4 +1,4 @@
---An empty table for solving multiple kicking problem(thanks to @Th3_BOOS )
+--An empty table for solving multiple kicking problem(thanks to @samir_98
 kicktable = {}
 
 do

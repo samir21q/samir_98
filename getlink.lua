@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS          ▀▄ ▄▀   
+▀▄ ▄▀    BY          @samir_98         ▀▄ ▄▀ 
+▀▄ ▄▀     BY     ▀▄ ▄@samir_98▀ 
+▀▄ ▄▀ JUST WRITED BY  @samir_98         ▀▄ ▄▀   
 ▀▄ ▄▀     A SPECiAL LINK  : الرابط خاص     ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -855,4 +855,4 @@ patterns = {
 run = run
 }
 end
--- arabic : @Th3_BOOS
+-- arabic : @samir_98

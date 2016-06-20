@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                       ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)          ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS              ▀▄ ▄▀   
+▀▄ ▄▀    BY       @samir_98                 ▀▄ ▄▀ 
+▀▄ ▄▀     BY       @samir_98    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY   @samir_98            ▀▄ ▄▀   
 ▀▄ ▄▀          Welcome  : ترحيب            ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]] 
@@ -76,10 +76,10 @@ local function description_rules(msg, nama)
       local text = text.."للخروج من المجموعة /مغادره ☹️"
       local text = text..""
       local text = text.."                                               "
-      local text = text.."من فضلك تابع قناة البوت❤️]"
+      local text = text.."للتحدث مع مطور البوت 
       local text = text..""
-      local text = text.."                                               "
-      local text = text.." @dev_Th3_BOOS \n✋🏿☝🏿️"
+      local text = text.."   @samir_98                                            "
+      local text = text.." ✋🏿☝🏿️"
       local receiver = get_receiver(msg)
       send_large_msg(receiver, text, ok_cb, false)
    end
